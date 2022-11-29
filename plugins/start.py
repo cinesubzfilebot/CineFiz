@@ -88,8 +88,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🏆 Channel 🏆", url="https://t.me/CineSubzMovies),
-                    InlineKeyboardButton("🗣 Group 🗣", url="https://t.me/CineSubzChatNew)
+                    InlineKeyboardButton("🏆 Channel 🏆", url="https://t.me/CineSubzMovies"),
+                    InlineKeyboardButton("🗣 Group 🗣", url="https://t.me/CineSubzChatNew")
                 ]
             ]
         )
