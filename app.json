@@ -47,7 +47,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>චිත්‍රපටය ලබාගැනීම සඳහා පළමුව පහත Button එක Click කර  අපගේ Channel එකට Join වෙන්න.\n\nඉන්පසු නැවත වෙබ් අඩවියට ගොස් Telegram Download ඔස්සේ නැවත පැමිණි විට ඔබට ලබා ගත හැක.</b>"
+      "value": "හායි {first}\n\n<b>චිත්‍රපටය ලබාගැනීම සඳහා පළමුව පහත Button එක Click කර  අපගේ Channel එකට Join වෙන්න.\n\nඉන්පසු නැවත වෙබ් අඩවියට ගොස් Telegram Download ඔස්සේ නැවත පැමිණි විට ඔබට ලබා ගත හැක.</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
