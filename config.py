@@ -46,7 +46,7 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>චිත්‍රපටය ලබාගැනීම සඳහා පළමුව පහත Button එක Click කර  අපගේ Channel එකට Join වෙන්න.\n\nඉන්පසු නැවත වෙබ් අඩවියට ගොස් Telegram Download ඔස්සේ නැවත පැමිණි විට ඔබට ලබා ගත හැක.</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "හායි {first}\n\n<b>චිත්‍රපටය ලබාගැනීම සඳහා පළමුව පහත Button එක Click කර  අපගේ Channel එකට Join වෙන්න.\n\nඉන්පසු නැවත වෙබ් අඩවියට ගොස් Telegram Download ඔස්සේ නැවත පැමිණි විට ඔබට ලබා ගත හැක.</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
